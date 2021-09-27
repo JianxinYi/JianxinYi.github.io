@@ -1,16 +1,16 @@
-<!DOCTYPE html> 
- <html> 
- <head> 
- <div class="text" style=" text-align:center;"><title> 20218029 리양</title> 
- <meta name="author" content="Chenyu"> 
- </head> 
- <body bgcolor="lightpink"> 
- <h1 >20218029 리양</h1> 
- <p> 
- < a href=" ">HW1-1</ a></p > 
- <p> <a href="https://20218029.github.io/homework2">HW1-2</a></p > 
- <p> <a href="https://20218029.github.io/homework3">HW1-3</a></p > 
- <p> <a href="https://20218029.github.io/homework4">HW1-4</a></p > 
- <p> <a href="https://20218029.github.io/homework5">HW1-5</a></p > 
-   </body> 
- </html> 
+<html>
+
+<body>
+
+<p>
+< img src ="/i/eg_cute.gif" align ="left"> 
+带有图像的一个段落。图像的 align 属性设置为 "left"。图像将浮动到文本的左侧。
+</p >
+
+<p>
+< img src ="/i/eg_cute.gif" align ="right"> 
+带有图像的一个段落。图像的 align 属性设置为 "right"。图像将浮动到文本的右侧。
+</p >
+
+</body>
+</html>
