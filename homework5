@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div class="text" style=" text-align:center;"><h1>Image Maps</h1>
+<div class="text" style=" text-align:center;"><p>
+  点击三个长方形进入新页面，阅读更多有关主题的信息：
+Click on three rectangles to go to a new page and read more about the topic:</p >
+
+ <div class="text" style=" text-align:center;"><img src="12.jpg" alt="12" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,150,250" alt="3" href="https://img2.baidu.com/it/u=2192265457,2884791613&fm=26&fmt=auto">
+  <area  shape="circle" coords="200,150,80" alt="4" href="https://baike.baidu.com/item/%E8%B6%8A%E5%8D%97%E5%AE%89%E6%81%AF%E9%A6%99/4490237?fromtitle=%E7%99%BD%E8%8A%B1%E6%A0%91&fromid=8550451">
+  <area shape="circle" coords="300,150,300" alt="5" href="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic21.nipic.com%2F20120606%2F5137861_093119370162_2.jpg&refer=http%3A%2F%2Fpic21.nipic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635391648&t=3fc9b07c19dfeda5702cd6010e836c83">
+</map>
+
+</body>
+</html>
+
+
+</html>
